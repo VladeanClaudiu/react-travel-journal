@@ -7,6 +7,10 @@ body {
   
 }
 
+.main-section {
+  display: grid;
+}
+
 .nav-section {
   background-color: #F55A5A;
   height: 55px;

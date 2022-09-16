@@ -13,12 +13,12 @@ function App() {
 
   })
   return (
-    <div>
+    <main className='main-section'>
       <Navbar />
       <section className='journal-section'>
         {mappedData}
       </section>
-    </div>
+    </main>
   )
 }
 
